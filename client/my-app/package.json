@@ -20,7 +20,7 @@
     "redux-logger": "^3.0.6",
     "redux-persist": "^4.10.2",
     "screenfull": "^3.0.0",
-    "shelljs": "^0.7.8",
+    "shelljs": "^0.8.5",
     "superagent": "^3.8.1"
   },
   "scripts": {
